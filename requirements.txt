@@ -1,8 +1,6 @@
 # requirements.txt
 
 streamlit
-pandas
-scikit-learn
-xgboost
-
-# joblib est inclus avec scikit-learn, pas besoin de l'ajouter
+pandas==2.2.2
+scikit-learn==1.6.1
+xgboost==2.1.4
