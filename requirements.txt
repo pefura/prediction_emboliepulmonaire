@@ -1,8 +1,10 @@
 # requirements.txt
 
 joblib==1.4.2
-scikit-learn==11.6.1
-xgboost==12.1.4
-pandas==12.2.2
-streamlit==11.46.1
+scikit-learn==1.6.1
+xgboost==2.1.4
+pandas==2.2.2
+streamlit==1.46.1
 seaborn 
+
+
